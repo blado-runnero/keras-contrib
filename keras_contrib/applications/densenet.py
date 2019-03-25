@@ -20,7 +20,7 @@ and pooling operations prior to the initial dense block.
 The following table describes the size and accuracy of DenseNetImageNet models
 on the ImageNet dataset (single crop), for which weights are provided:
 ------------------------------------------------------------------------------------
-    Model type      | ImageNet Acc (Top 1)  |  ImageNet Acc (Top 5) |  Params (M)  |
+    Model type      | ImageNet Error (Top 1)|  ImageNet Error(Top 5)|  Params (M)  |
 ------------------------------------------------------------------------------------
 |   DenseNet-121    |    25.02 %            |        7.71 %         |     8.0      |
 |   DenseNet-169    |    23.80 %            |        6.85 %         |     14.3     |
